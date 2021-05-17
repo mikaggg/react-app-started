@@ -1,0 +1,6 @@
+{
+    "message": {
+        "text": "こんにちは、リアクト",
+        "selector": ".hello"
+    }
+}
